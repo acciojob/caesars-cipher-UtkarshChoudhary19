@@ -50,7 +50,7 @@ function rot13(encodedStr) {
     }
    }
 }
-  return arr.join("");
+  return decodedArr.join("");
 }
 	
 
